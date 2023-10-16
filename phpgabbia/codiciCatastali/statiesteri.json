@@ -1,0 +1,71 @@
+[{"nome":"Albania","codice":"Z100"},{"nome":"Andorra","codice":"Z101"},{"nome":"Austria","codice":"Z102"},{"nome":"Belgio","codice":"Z103"},{"nome":"Bulgaria","codice":"Z104"},{"nome":"Danimarca","codice":"Z107"},{"nome":"Finlandia","codice":"Z109"},{"nome":"Francia","codice":"Z110"},{"nome":"Germania","codice":"Z112"},{"nome":"Regno Unito","codice":"Z114"},{"nome":"Grecia","codice":"Z115"},{"nome":"Irlanda","codice":"Z116"},{"nome":"Islanda","codice":"Z117"},{"nome":"Liechtenstein","codice":"Z119"},{"nome":"Lussemburgo","codice":"Z120"},{"nome":"Malta","codice":"Z121"},{"nome":"Monaco","codice":"Z123"},{"nome":"Norvegia","codice":"Z125"},{"nome":"Paesi Bassi","codice":"Z126"},{"nome":"Polonia","codice":"Z127"},{"nome":"Portogallo","codice":"Z128"},{"nome":"Romania","codice":"Z129"},{"nome":"San Marino","codice":"Z130"},{"nome":"Spagna","codice":"Z131"},{"nome":"Svezia","codice":"Z132"},{"nome":"Svizzera","codice":"Z133"},{"nome":"Ucraina","codice":"Z138"},{"nome":"Ungheria","codice":"Z134"},{"nome":"Federazione russa","codice":"Z154"},{"nome":"Stato della Città del Vaticano","codice":"Z106"},{"nome":"Estonia","codice":"Z144"},{"nome":"Lettonia","codice":"Z145"},{"nome":"Lituania","codice":"Z146"},{"nome":"Croazia","codice":"Z149"},{"nome":"Slovenia","codice":"Z150"},{"nome":"Bosnia-Erzegovina","codice":"Z153"},{"nome":"Macedonia del Nord","codice":"Z148"},{"nome":"Moldavia","codice":"Z140"},{"nome":"Slovacchia","codice":"Z155"},{"nome":"Bielorussia","codice":"Z139"},{"nome":"Repubblica ceca","codice":"Z156"},{"nome":"Montenegro","codice":"Z159"},{"nome":"Serbia","codice":"Z158"},{"nome":"Kosovo","codice":"Z160"},{"nome":"Afghanistan","codice":"Z200"},{"nome":"Arabia Saudita","codice":"Z203"},{"nome":"Bahrein","codice":"Z204"},{"nome":"Bangladesh","codice":"Z249"},{"nome":"Bhutan","codice":"Z205"},{"nome":"Myanmar/Birmania","codice":"Z206"},{"nome":"Brunei Darussalam","codice":"Z207"},{"nome":"Cambogia","codice":"Z208"},{"nome":"Sri Lanka","codice":"Z209"},{"nome":"Cina","codice":"Z210"},{"nome":"Cipro","codice":"Z211"},{"nome":"Corea del Nord","codice":"Z214"},{"nome":"Corea del Sud","codice":"Z213"},{"nome":"Emirati Arabi Uniti","codice":"Z215"},{"nome":"Filippine","codice":"Z216"},{"nome":"Palestina","codice":"Z161"},{"nome":"Giappone","codice":"Z219"},{"nome":"Giordania","codice":"Z220"},{"nome":"India","codice":"Z222"},{"nome":"Indonesia","codice":"Z223"},{"nome":"Iran","codice":"Z224"},{"nome":"Iraq","codice":"Z225"},{"nome":"Israele","codice":"Z226"},{"nome":"Kuwait","codice":"Z227"},{"nome":"Laos","codice":"Z228"},{"nome":"Libano","codice":"Z229"},{"nome":"Timor Leste","codice":"Z242"},{"nome":"Maldive","codice":"Z232"},{"nome":"Malaysia","codice":"Z247"},{"nome":"Mongolia","codice":"Z233"},{"nome":"Nepal","codice":"Z234"},{"nome":"Oman","codice":"Z235"},{"nome":"Pakistan","codice":"Z236"},{"nome":"Qatar","codice":"Z237"},{"nome":"Singapore","codice":"Z248"},{"nome":"Siria","codice":"Z240"},{"nome":"Thailandia","codice":"Z241"},{"nome":"Turchia","codice":"Z243"},{"nome":"Vietnam","codice":"Z251"},{"nome":"Yemen","codice":"Z246"},{"nome":"Kazakhstan","codice":"Z255"},{"nome":"Uzbekistan","codice":"Z259"},
+{"nome":"Armenia","codice":"Z252"},{"nome":"Azerbaigian","codice":"Z253"}
+,{"nome":"Georgia","codice":"Z254"},{"nome":"Kirghizistan","codice":"Z256"}
+,{"nome":"Tagikistan","codice":"Z257"},{"nome":"Taiwan","codice":"Z217"}
+,{"nome":"Turkmenistan","codice":"Z258"},{"nome":"Algeria","codice":"Z301"}
+,{"nome":"Angola","codice":"Z302"},{"nome":"Costa d'Avorio","codice":"Z313"}
+,{"nome":"Benin","codice":"Z314"},{"nome":"Botswana","codice":"Z358"}
+,{"nome":"Burkina Faso","codice":"Z354"},{"nome":"Burundi","codice":"Z305"}
+,{"nome":"Camerun","codice":"Z306"},{"nome":"Capo Verde","codice":"Z307"}
+,{"nome":"Repubblica Centrafricana","codice":"Z308"},{"nome":"Ciad","codice":"Z309"}
+,{"nome":"Comore","codice":"Z310"},{"nome":"Congo","codice":"Z311"}
+,{"nome":"Egitto","codice":"Z336"},{"nome":"Etiopia","codice":"Z315"}
+,{"nome":"Gabon","codice":"Z316"},{"nome":"Gambia","codice":"Z317"},
+{"nome":"Ghana","codice":"Z318"},{"nome":"Gibuti","codice":"Z361"}
+,{"nome":"Guinea","codice":"Z319"},{"nome":"Guinea-Bissau","codice":"Z320"}
+,{"nome":"Guinea equatoriale","codice":"Z321"},{"nome":"Kenya","codice":"Z322"}
+,{"nome":"Lesotho","codice":"Z359"},{"nome":"Liberia","codice":"Z325"}
+,{"nome":"Libia","codice":"Z326"},{"nome":"Madagascar","codice":"Z327"}
+,{"nome":"Malawi","codice":"Z328"},{"nome":"Mali","codice":"Z329"}
+,{"nome":"Marocco","codice":"Z330"},{"nome":"Mauritania","codice":"Z331"}
+,{"nome":"Maurizio","codice":"Z332"},{"nome":"Mozambico","codice":"Z333"}
+,{"nome":"Namibia","codice":"Z300"},{"nome":"Niger","codice":"Z334"}
+,{"nome":"Nigeria","codice":"Z335"},{"nome":"Ruanda","codice":"Z338"}
+,{"nome":"Sao Tomè e Principe","codice":"Z341"},{"nome":"Seychelles","codice":"Z342"}
+,{"nome":"Senegal","codice":"Z343"},{"nome":"Sierra Leone","codice":"Z344"}
+,{"nome":"Somalia","codice":"Z345"},{"nome":"Sudafrica","codice":"Z347"}
+,{"nome":"Sudan","codice":"Z348"},{"nome":"Eswatini","codice":"Z349"}
+,{"nome":"Tanzania","codice":"Z357"},{"nome":"Togo","codice":"Z351"}
+,{"nome":"Tunisia","codice":"Z352"},{"nome":"Uganda","codice":"Z353"}
+,{"nome":"Repubblica Democratica del Congo","codice":"Z312"},{"nome":"Zambia","codice":"Z355"}
+,{"nome":"Zimbabwe","codice":"Z337"},{"nome":"Eritrea","codice":"Z368"}
+,{"nome":"Sud Sudan","codice":"Z907"},{"nome":"Antigua e Barbuda","codice":"Z532"}
+,{"nome":"Bahamas","codice":"Z502"},{"nome":"Barbados","codice":"Z522"}
+,{"nome":"Belize","codice":"Z512"},{"nome":"Canada","codice":"Z401"}
+,{"nome":"Costa Rica","codice":"Z503"},{"nome":"Cuba","codice":"Z504"}
+,{"nome":"Dominica","codice":"Z526"},{"nome":"Repubblica Dominicana","codice":"Z505"}
+,{"nome":"El Salvador","codice":"Z506"},{"nome":"Giamaica","codice":"Z507"}
+,{"nome":"Grenada","codice":"Z524"},{"nome":"Guatemala","codice":"Z509"}
+,{"nome":"Haiti","codice":"Z510"},{"nome":"Honduras","codice":"Z511"}
+,{"nome":"Messico","codice":"Z514"},{"nome":"Nicaragua","codice":"Z515"}
+,{"nome":"Panama","codice":"Z516"},{"nome":"Santa Lucia","codice":"Z527"}
+,{"nome":"Saint Vincent e Grenadine","codice":"Z528"},{"nome":"Saint Kitts e Nevis","codice":"Z533"}
+,{"nome":"Stati Uniti d'America","codice":"Z404"},{"nome":"Argentina","codice":"Z600"}
+,{"nome":"Bolivia","codice":"Z601"},{"nome":"Brasile","codice":"Z602"}
+,{"nome":"Cile","codice":"Z603"},{"nome":"Colombia","codice":"Z604"}
+,{"nome":"Ecuador","codice":"Z605"},{"nome":"Guyana","codice":"Z606"}
+,{"nome":"Paraguay","codice":"Z610"},{"nome":"Perù","codice":"Z611"}
+,{"nome":"Suriname","codice":"Z608"},{"nome":"Trinidad e Tobago","codice":"Z612"}
+,{"nome":"Uruguay","codice":"Z613"},{"nome":"Venezuela","codice":"Z614"}
+,{"nome":"Australia","codice":"Z700"}
+,{"nome":"Figi","codice":"Z704"},{"nome":"Kiribati","codice":"Z731"}
+,{"nome":"Isole Marshall","codice":"Z711"},{"nome":"Stati Federati di Micronesia","codice":"Z735"}
+,{"nome":"Nauru","codice":"Z713"},{"nome":"Nuova Zelanda","codice":"Z719"}
+,{"nome":"Palau","codice":"Z734"},{"nome":"Papua Nuova Guinea","codice":"Z730"}
+,{"nome":"Isole Salomone","codice":"Z724"},{"nome":"Samoa","codice":"Z726"}
+,{"nome":"Tonga","codice":"Z728"},{"nome":"Tuvalu","codice":"Z732"}
+,{"nome":"Vanuatu","codice":"Z733"},{"nome":"Nuova Caledonia","codice":"Z716"}
+,{"nome":"Saint-Martin (FR)","codice":"n.d."},{"nome":"Sahara occidentale","codice":"Z339"}
+,{"nome":"Saint-Barth�lemy","codice":"n.d."},{"nome":"Bermuda","codice":"Z400"}
+,{"nome":"Isole Cook (NZ)","codice":"Z703"},{"nome":"Gibilterra","codice":"Z113"}
+,{"nome":"Isole Cayman","codice":"Z530"},{"nome":"Anguilla","codice":"Z529"}
+,{"nome":"Polinesia francese","codice":"Z723"},{"nome":"Isole F�r �er","codice":"Z108"}
+,{"nome":"Jersey","codice":"n.d."},{"nome":"Aruba","codice":"Z501"}
+,{"nome":"Sint Maarten (NL)","codice":"n.d."},{"nome":"Groenlandia","codice":"Z402"}
+,{"nome":"Sark","codice":"n.d."},{"nome":"Guernsey","codice":"n.d."}
+,{"nome":"Isole Falkland (Malvine)","codice":"Z609"},{"nome":"Isola di Man","codice":"Z122"}
+,{"nome":"Montserrat","codice":"Z531"},{"nome":"Cura�ao","codice":"n.d."}
+,{"nome":"Isole Pitcairn","codice":"Z722"},{"nome":"Saint Pierre e Miquelon","codice":"Z403"}
+,{"nome":"Sant'Elena","codice":"Z340"},{"nome":"Terre australi e antartiche francesi","codice":"n.d."}
+,{"nome":"Isole Turks e Caicos","codice":"Z519"},{"nome":"Isole Vergini britanniche","codice":"Z525"}
+,{"nome":"Wallis e Futuna","codice":"Z729"}]
